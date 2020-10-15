@@ -1,0 +1,22 @@
+
+body {
+	font-family: "Times New Roman", serif;
+}
+
+div {
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
+
